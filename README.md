@@ -11,4 +11,4 @@
 ## 3. Script slave_xarm5
 
 > 功能：与主操作手Touch进行通讯，接收Touch的控制指令并跟踪主操作手的运动。<br>
-> 启动：sh slave_xarm5.sh
+> 启动：sh ./scripts/slave_xarm5.sh
